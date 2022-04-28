@@ -1,2 +1,1 @@
-[![Eteckq's github stats](https://github-readme-stats.vercel.app/api?username=Eteckq&show_icons=true&theme=radical&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30&hide_border=true&count_private=true)](https://github.com/Eteckq/Eteckq)
 [![Eteckq's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Eteckq&exclude=java&layout=compact&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30)](https://github.com/Eteckq/Eteckq)
