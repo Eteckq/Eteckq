@@ -1,1 +1,1 @@
-[![Eteckq's github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Eteckq&exclude=java&layout=compact&title_color=ffb134&text_color=6fa5e6&icon_color=ffbf78&bg_color=1a1c30)](https://github.com/Eteckq/Eteckq)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eteckq&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
